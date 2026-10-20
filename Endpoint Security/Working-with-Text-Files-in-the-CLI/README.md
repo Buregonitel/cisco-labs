@@ -56,7 +56,7 @@ alias vi="vim"
 cat /etc/bash.bashrc
 ```
 
-![bash .bashrc](cat-bash.bashrc.png)
+![bash.bashrc](cat-bash.bashrc.png)
 
 ## Part 3: Конфигурация nginx
 
