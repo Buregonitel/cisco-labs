@@ -1,7 +1,5 @@
 # Lab - Exploring Processes, Threads, Handles, and Windows Registry
 
-**Endpoint Security 7.2.11**
-
 Лабораторная работа выполнена на **Windows VM** с использованием **Sysinternals Process Explorer**.
 
 Цель работы — изучить процессы, потоки (threads), handles и реестр Windows с помощью Process Explorer и Registry Editor.
