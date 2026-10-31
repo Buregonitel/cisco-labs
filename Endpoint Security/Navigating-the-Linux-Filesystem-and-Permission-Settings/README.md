@@ -1,7 +1,5 @@
 # Lab - Navigating the Linux Filesystem and Permission Settings
 
-**Endpoint Security 8.5.4**
-
 Лабораторная работа выполнена на **Security Workstation VM**.
 
 Цель работы — изучить файловую систему Linux, права доступа, монтирование и ссылки.
